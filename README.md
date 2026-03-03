@@ -1,9 +1,8 @@
 🌐 Live Demo
 
-👉 (Add your deployed GitHub Pages / Netlify link here)
-Example:
-https://yourusername.github.io/rock-paper-scissors
+ https://majidtamboli45.github.io/Rock-Paper-Scissors-Game/
 
+ 
 📌 Project Overview
 
 The Rock Paper Scissors Game is an interactive browser-based game developed using HTML, CSS, and JavaScript. It allows a user to compete against the computer in a classic Rock–Paper–Scissors match.
@@ -109,6 +108,31 @@ Select branch: main
 
 Save
 
-Your project will be live at:
 
-https://yourusername.github.io/repository-name
+📈 Learning Outcomes
+
+DOM Selection & Manipulation
+
+Event Handling
+
+Conditional Logic
+
+Modular Programming
+
+Real-Time UI Updates
+
+Basic Game Development Concepts
+
+🔮 Future Enhancements
+
+🔁 Add Reset Button
+
+🎵 Add Sound Effects
+
+🧑‍🤝‍🧑 Add Multiplayer Mode
+
+📱 Improve Mobile Responsiveness
+
+📊 Add Match History Tracking
+
+🎨 Add Animations for Moves
