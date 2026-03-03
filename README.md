@@ -2,6 +2,7 @@
 
  https://majidtamboli45.github.io/Rock-Paper-Scissors-Game/
 
+
  
 📌 Project Overview
 
@@ -10,6 +11,10 @@ The Rock Paper Scissors Game is an interactive browser-based game developed usin
 The application dynamically generates the computer’s move using randomized logic and determines the winner using structured conditional statements. Scores are updated in real time, and the interface provides clear visual feedback for win, loss, and draw outcomes.
 
 This project demonstrates strong understanding of DOM manipulation, modular JavaScript functions, event handling, and UI feedback design.
+
+
+
+
 
 🚀 Features
 
