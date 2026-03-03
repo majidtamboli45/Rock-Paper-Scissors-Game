@@ -37,22 +37,22 @@ This project demonstrates strong understanding of DOM manipulation, modular Java
 
 When the user wins, the score updates and a green success message is displayed.
 
-<img src="./Screenshot 2026-03-03 111206.png" width="800"/>
+<img src="./Wining Case.png" width="800"/>
 🔴 Losing Condition
 
 When the computer wins, the score updates and a red failure message is displayed.
 
-<img src="./Screenshot 2026-03-03 111134.png" width="800"/>
+<img src="./Lossing Case.png" width="800"/>
 🔵 Draw Condition
 
 When both choices match, a draw message is displayed.
 
-<img src="./Screenshot 2026-03-03 111150.png" width="800"/>
+<img src="./Draw Caase.png" width="800"/>
 🎮 Initial Game Interface
 
 Default game layout before making a move.
 
-<img src="./dbd7103d-e909-4bd8-92e2-c86290f0c800.png" width="800"/>
+<img src="./Game Interface.png" width="800"/>
 🛠️ Tech Stack
 
 HTML5 – Structure and semantic layout
