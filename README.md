@@ -33,6 +33,11 @@ This project demonstrates strong understanding of DOM manipulation, modular Java
 ⚡ Real-time DOM updates
 
 📸 Screenshots
+
+Default game layout before making a move.
+
+<img src="./Game Interface.png" width="800"/>
+
 🟢 Winning Condition
 
 When the user wins, the score updates and a green success message is displayed.
@@ -47,12 +52,10 @@ When the computer wins, the score updates and a red failure message is displayed
 
 When both choices match, a draw message is displayed.
 
-<img src="./Draw Caase.png" width="800"/>
+<img src="./Draw Case.png" width="800"/>
 🎮 Initial Game Interface
 
-Default game layout before making a move.
 
-<img src="./Game Interface.png" width="800"/>
 🛠️ Tech Stack
 
 HTML5 – Structure and semantic layout
